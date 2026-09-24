@@ -1,0 +1,30 @@
+5)
+
+Git status: states whether or not the current branch is up to date
+git log: Shows the list of all the commits and messages
+git shortlog: Shows the list of all the commits and messages but only shows part of the data
+git log --graph: Shows the list of commits and branches with a grah display for visual aid
+git log --graph --oneline: Shows the list of commits and branches with less information and with a graphic display
+
+6) "origin"
+
+22) The output states that I am on the feature1 branch instead of the main branch
+
+30) There is no file named inspiration.txt
+
+33) gitk did nothing, it states that it is not a command that I can make
+
+36)
+
+a) 3 
+b) in the 1st commit
+c) git checkout (to access the repository) and ls
+d) 13
+e) There was no remove.txt in the repository
+f) The difference betwen git log and git status is that git status only shows the latest information while in the log you can continue ne coll backwords
+g) Shortlog does a shortened version of the log in the information given
+h) git log -- (file path)
+i) git log --follow (file path)
+j) git log --grep "Account"
+k) git log --author "name"
+l) git log --author "name" --since "xx-xx-xxx"  --until "xx-xx-xxx"-
