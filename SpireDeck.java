@@ -186,13 +186,13 @@ public class SpireDeck {
             }
         }
 
-        // Closes the reader
+        // Closes the reader 
         reader.close();
 
         // Creates an array to store the results
-        // Position 0 = total cost
-        // Positions 1-7 = histogram
-        // Position 8 = VOID status
+        // Position 0 = total cost 
+        // Positions 1-7 = histogram 
+        // Position 8 = VOID status 
         int[] result = new int[9];
 
         // Stores the total cost
@@ -218,7 +218,7 @@ public class SpireDeck {
         // Creates an empty string for the histogram
         String result = "";
 
-        // Creates a line for each energy value from 0-6
+        // Creates a line for each energy value from 0-6 
         for (int i = 0; i <= 6; i++) {
             result += "Energy " + i + ": "
                     + histogram[i] + " cards\n";
@@ -237,7 +237,7 @@ public class SpireDeck {
         // Creates a random number generator
         Random random = new Random();
 
-        // Returns a random 9-digit number
+        // Returns a random 9-digit number for the ID
         return 100000000 + random.nextInt(900000000);
     }
 
