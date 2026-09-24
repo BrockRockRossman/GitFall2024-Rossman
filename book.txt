@@ -1,0 +1,17 @@
+The last book I read was Song of Achilles, it is a book about the story of 
+Achilles from the perspective of one of his friend and partner Patroclus. 
+It was really well written and there are lots of really interestign quotes 
+and thoughts throughout the whole thing. 10/10
+
+--------------------------------------------------------------------------
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	book.txt
+	git.ignore
+	properties.txt
+
+nothing added to commit but untracked files present (use "git add" to track)

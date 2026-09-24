@@ -1,5 +1,7 @@
 # GitFall2024
 
+Name: Brock Rossman
+Email: brock.rossman
 
 This is the starter code for your Git Assignment.
 
